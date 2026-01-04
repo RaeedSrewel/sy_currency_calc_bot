@@ -1,3 +1,4 @@
+print("🔥 BOT.PY IS RUNNING - NO UPDATER HERE 🔥")
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -104,3 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
